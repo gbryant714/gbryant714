@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Grace!
-- 👀 I’m interested in data science. geographic information systems, and statistical programming.
+- 👀 I’m interested and working in front and back end development! 
 - 🌱 I’m currently learning Julia.
 - 📫 Reach out to my email: bgrace714@gmail.com. 
