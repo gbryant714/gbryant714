@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Grace!
-- 👀 I’m interested and working in front and back end development! 
-- 🌱 I’m currently learning Julia.
-- 📫 Reach out to my email: bgrace714@gmail.com. 
+- 👀 I’m a C#/.NET developer! 
+- 🌱 I’m currently learning WPF.
+- 📫 Feel free to reach out to my email: bgrace714@gmail.com. 
