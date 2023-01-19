@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Grace!
 - 👀 I’m a C#/.NET developer! 
-- 🌱 I’m currently learning WPF.
+- 🌱 I’m currently learning Go.
 - 📫 Feel free to reach out to my email: bgrace714@gmail.com. 
